@@ -27,7 +27,7 @@ from quadratic_equation import get_roots
  ```python
  print(get_roots(1, -2, 1))
  ```
- значение выхода:
+ результат:
  ```python
  (1.0, None)
  ```
@@ -36,7 +36,7 @@ from quadratic_equation import get_roots
  ```python
  print(get_roots(1, 2, -3))
  ```
- значение выхода:
+ результат:
  ```python
  (-3.0, 1.0)
  ```
@@ -45,7 +45,7 @@ from quadratic_equation import get_roots
  ```python
  print(get_roots(1, 2, 3))
  ```
- значение выхода:
+ результат:
  ```python
  (None, None)
  ```
